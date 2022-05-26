@@ -12,6 +12,6 @@ In public folder you can find 2 html pages just to understand the runaway of ind
 
 On the middleware have a Logger.js file, will respond all requisition on console.log.
 
-the last important folder is routes\api, will have member.js file for all routes for this API(Create, Read, Update,Delete).
+the last important folder is routes\api, will have member.js file for all routes for this API(Create, Read, Update,Delete). THIS API DON'T HAVE PERSISTENT JOB.
 
 You can run as developer this API using the code: npm run dev
